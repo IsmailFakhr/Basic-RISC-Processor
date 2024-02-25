@@ -18,7 +18,7 @@ Coded by:
 - Alaa Imam
 - Anton Ashraf
 - Ahmed Kamal
-- Mahmoud Hany 
+- Mahmoud Hany Fathalla
 - Ahmed Mohamed Eldalil
 
 
