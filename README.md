@@ -12,13 +12,13 @@ Full report with detailed explanation is available to download in the repository
 # Credits
 
 Coded by:
-- Nada Shalan
-- Ismail Mohamed
-- Haneen Talaat 
-- Alaa Imam
-- Anton Ashraf
-- Ahmed Kamal
-- Mahmoud Hany Fathalla
-- Ahmed Mohamed Eldalil
+- Nada Shalan.
+- Ismail Mohamed.
+- Haneen Talaat. 
+- Alaa Imam.
+- Anton Ashraf.
+- Ahmed Kamal.
+- Mahmoud Hany Fathalla.
+- Ahmed Mohamed Eldalil.
 
 
