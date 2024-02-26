@@ -1,6 +1,6 @@
 # Basic RISC Processing Unit
 
-Basic RISC Processing Unit coded in VHDL, done as a project for the 'Computer Architecture' course in the AAST Computer Engineering curriculum
+Basic RISC Processing Unit coded in VHDL, done as a project for the 'Computer Architecture' course in the AAST Computer Engineering curriculum.
 
 # Report
 
